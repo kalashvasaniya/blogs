@@ -504,7 +504,11 @@ header .btn-group {
   text-decoration-thickness: 2px;
 }
 
-.blog-text,
+.blog-text {
+  display: block;
+  color: gray;
+}
+
 .profile-wrapper {
   display: none;
 }
